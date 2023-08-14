@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <string.h>
- 
 void bitStuffing(int N, int arr[])
 {
     int brr[30]; 
